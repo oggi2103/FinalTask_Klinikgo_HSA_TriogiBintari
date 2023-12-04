@@ -1,0 +1,2 @@
+# FinalTask_Klinikgo_HSA_TriogiBintari
+ Flowchart KlinikGo
